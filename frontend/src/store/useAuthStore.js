@@ -13,6 +13,7 @@ export const useAuthStore = create((set, get) => ({
   socket: null,
   checkAuth: async () => {
     try {
+      console.log(import.meta.env.VITE_BACKEND_URL);
       const res = await axiosInstance.get("/users/check");
       set({ authUser: res.data });
       get().connectSocket();
