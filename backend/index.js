@@ -17,7 +17,7 @@ connectDB();
 app.use(express.json({ limit: "10mb" }));
 app.use(
   cors({
-    origin: process.env.FRONTEND_PORT,
+    origin: process.env.FRONTEND_URL,
     credentials: true,
   })
 );
