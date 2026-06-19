@@ -1,8 +1,6 @@
 # 💬 Chatify
 
-Chatify is a modern full-stack real-time chat application built using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). It enables users to communicate instantly through a secure and responsive platform designed for seamless user experience.
-
-The application features real-time messaging powered by Socket.io, secure JWT-based authentication, profile management, and a clean modern interface. Users can update their profile photos and personal information instantly while enjoying fast and reliable communication.
+A modern real-time chat application built with the MERN Stack, featuring secure authentication, instant messaging, profile management, and a responsive user interface.
 
 ## ✨ Features
 
