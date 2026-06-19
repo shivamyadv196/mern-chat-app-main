@@ -26,10 +26,6 @@ A modern real-time chat application built with the MERN Stack, featuring secure 
 
 **Deployment:** Vercel
 
-## 🚀 Live Demo
-
-🔗 [Live Application](YOUR_VERCEL_LINK_HERE)
-
 ---
 
 Built with ❤️ by **Shivam Yadav**
