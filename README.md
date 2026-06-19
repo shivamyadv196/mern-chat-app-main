@@ -1,4 +1,4 @@
-# 💬 Chatify
+## 💬 Chatify
 
 A modern real-time chat application built with the MERN Stack, featuring secure authentication, instant messaging, profile management, and a responsive user interface.
 
