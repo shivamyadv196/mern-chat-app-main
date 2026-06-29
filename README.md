@@ -76,7 +76,8 @@ Configure the required environment variables and start the frontend and backend 
 
 ### User Profile
 
-<img width="498" height="635" alt="image" src="https://github.com/user-attachments/assets/b9ce1bc0-74f6-4058-8929-ffdebe277692" />
+<img width="1918" height="1058" alt="image" src="https://github.com/user-attachments/assets/083e0285-84b0-4dd3-b9c4-10dfc4911506" />
+
 
 
 ### Chat Interface
