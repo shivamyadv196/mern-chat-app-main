@@ -1,31 +1,88 @@
-## 💬 Chatify
+# Chatify
 
-A modern real-time chat application built with the MERN Stack, featuring secure authentication, instant messaging, profile management, and a responsive user interface.
+Chatify is a full-stack social media platform built with the MERN stack, enabling users to create and interact with content through posts, comments, likes, real-time messaging, and notifications.
 
-## ✨ Features
+## Features
 
-- ⚡ Real-Time Messaging with Socket.io
-- 🔐 Secure JWT Authentication & Authorization
-- 👤 Instant Profile Photo & Account Updates
-- 💬 One-to-One Real-Time Chat
-- 📱 Fully Responsive Design
-- 🚀 Production-Ready Deployment on Vercel
-- 🎨 Modern and User-Friendly Interface
+* Authentication & Authorization
+* User Profile Management
+* Post Creation and Image Upload
+* Like and Comment System
+* Bookmark Posts
+* Suggested Users
+* Real-Time Messaging
+* Real-Time Notifications
+* Responsive User Interface
 
-## 🛠️ Tech Stack
+## Technology Stack
 
-**Frontend:** React.js, Tailwind CSS, Zustand
+**Frontend:** React.js, Redux Toolkit, Tailwind CSS, Shadcn UI, Axios
 
 **Backend:** Node.js, Express.js
 
-**Database:** MongoDB
+**Database:** MongoDB, Mongoose
 
-**Authentication:** JWT (JSON Web Token)
+**Services:** Socket.IO, JWT Authentication, Cloudinary
 
-**Real-Time Communication:** Socket.io
+## Project Structure
 
-**Deployment:** Vercel
+```bash
+Chatify/
+├── frontend/
+│   ├── src/
+│   ├── components/
+│   ├── redux/
+│   ├── hooks/
+│   └── utils/
+│
+├── backend/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   └── utils/
+│
+└── README.md
+```
 
----
+## Getting Started
 
-Built with ❤️ by **Shivam Yadav**
+Clone the repository:
+
+```bash
+git clone <repository-url>
+cd Chatify
+```
+
+Install dependencies:
+
+```bash
+# Frontend
+cd frontend
+npm install
+
+# Backend
+cd ../backend
+npm install
+```
+
+Configure the required environment variables and start the frontend and backend servers.
+
+## Screenshots
+
+### Home Feed
+
+(Add Screenshot)
+
+### User Profile
+
+<img width="498" height="635" alt="image" src="https://github.com/user-attachments/assets/b9ce1bc0-74f6-4058-8929-ffdebe277692" />
+
+
+### Chat Interface
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/7cdbdc12-61bc-40c0-90a7-16533a2940d2" />
+
+<img width="1912" height="1078" alt="image" src="https://github.com/user-attachments/assets/6f77a109-2ed0-4636-b9ab-1b17bd3035cd" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/522cee56-6c00-4394-acd0-f28c3cb8aeaf" />
+
+
