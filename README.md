@@ -70,9 +70,6 @@ Configure the required environment variables and start the frontend and backend 
 
 ## Screenshots
 
-### Home Feed
-
-(Add Screenshot)
 
 ### User Profile
 
