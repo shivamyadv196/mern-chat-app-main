@@ -1,4 +1,4 @@
-# Chatify 
+## Chatify 
 
 Sociafy is a full-stack social media platform built with the MERN stack, enabling users to create and interact with content through posts, comments, likes, real-time messaging, and notifications.
 
@@ -14,7 +14,7 @@ Sociafy is a full-stack social media platform built with the MERN stack, enablin
 * Real-Time Notifications
 * Responsive User Interface
 
-## Technology Stack
+### Technology Stack
 
 **Frontend:** React.js, Redux Toolkit, Tailwind CSS, Shadcn UI, Axios
 
